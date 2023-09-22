@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "30006541032",
+    "firebase_url": "https://atm18-20a7f-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "atm18-20a7f",
+    "storage_bucket": "atm18-20a7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30006541032:android:971586fcd0da01fbfaa75d",
+        "android_client_info": {
+          "package_name": "com.example.atm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvNXkKjJLKCojwkew9f3rcwxpxC40Moh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
